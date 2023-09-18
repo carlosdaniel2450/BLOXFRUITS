@@ -1,0 +1,15 @@
+.menu{
+    background: rgb(20, 190, 20);
+    text-align-last: center;;
+}
+a { color: inherit; } 
+.video{
+    text-align: center;
+}
+.rodape{
+    background: rgb(167, 163, 163);
+    text-align: center;
+}
+.imagens{
+    text-align: center;
+}
